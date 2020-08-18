@@ -12,7 +12,7 @@ public class Main {
         float floatVar = 100_000;
         double doubleVar = 1000_000;
         char charVar = '\u0039';
-        boolean boolleanVar = true;
+        boolean booleanVar = true;
         System.out.println("byteVar = " + byteVar);
         System.out.println("shortVar = " + shortVar);
         System.out.println("intVar = " + intVar);
@@ -20,6 +20,6 @@ public class Main {
         System.out.println("floatVar = " + floatVar);
         System.out.println("doubleVar = " + doubleVar);
         System.out.println("charVar = " + charVar);
-        System.out.println("boolleanVar = " + boolleanVar);
+        System.out.println("booleanVar = " + booleanVar);
     }
 }
